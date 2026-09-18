@@ -4,8 +4,8 @@ Ingenieria en Sistemas Computacionales
 
 ## Índice
 1. Docs
-   - [Ejercicio 1](docs/Practica1_ejercicio_1.pdf)
-   - [Ejercicio 2](docs/Practica1_ejercicio_2.pdf)
+   - [Ejercicio 1](docs/ejercicio_1.pdf)
+   - [Ejercicio 2](docs/ejercicio_2.pdf)
    - [Ejercicio 3](docs/Investigación_Fundamentos_y_Arquitectura_de_los_Sistemas_de_Bases_de_Datos.pdf)
    - [Ejercicio 4](docs/Estado_del_arte.pdf)
    - [Ejercicio 5](docs/Caso_de_estudio.pdf)
