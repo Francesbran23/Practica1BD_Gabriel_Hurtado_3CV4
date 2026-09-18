@@ -3,16 +3,22 @@ Brandon Uziel Gonzalez Carapia
 Ingenieria en Sistemas Computacionales
 
 ## Índice
-1.-Docs
-  1.1 Ejercicio 1
-  1.2 Ejercicio 2
-  1.3 Ejercicio 3
-  1.4 Ejercicio 4
-  1.5 Ejercicio 5
-2.-Entorno
-  2.1 gitignore
-3.-Evidencias
-  3.1.-Docker
-  3.2.- Git
-4.-Modelo
+1. Docs
+   - [Ejercicio 1](docs/Practica1_ejercicio1.pdf)
+   - [Ejercicio 2](docs/Practica1_ejercicio2.pdf)
+   - [Ejercicio 3](docs/Investigación_ Fundamentos y Arquitectura de los Sistemas de Bases de Datos.pdf)
+   - [Ejercicio 4](docs/Estado del arte.pdf)
+   - [Ejercicio 5](docs/Caso de estudio.pdf)
+
+2. Entorno
+   - [gitignore](entorno/.gitignore)
+
+3. Evidencias
+   - [Docker](evidencias/docker)
+   - [Git](evidencias/git)
+
+4. Modelo
+   - [Modelo](modelo/modelo.md)
+
+
 
