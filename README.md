@@ -4,11 +4,11 @@ Ingenieria en Sistemas Computacionales
 
 ## Índice
 1. Docs
-   - [Ejercicio 1](docs/Practica1_ejercicio1 (3).pdf)
-   - [Ejercicio 2](docs/Practica1_ejercicio 2.pdf)
-   - [Ejercicio 3](docs/Investigación_ Fundamentos y Arquitectura de los Sistemas de Bases de Datos.pdf)
-   - [Ejercicio 4](docs/Estado del arte.pdf)
-   - [Ejercicio 5](docs/Caso de estudio.pdf)
+   - [Ejercicio 1](docs/Practica1_ejercicio_1.pdf)
+   - [Ejercicio 2](docs/Practica1_ejercicio_2.pdf)
+   - [Ejercicio 3](docs/Investigación_Fundamentos_y_Arquitectura_de_los_Sistemas_de_Bases_de_Datos.pdf)
+   - [Ejercicio 4](docs/Estado_del_arte.pdf)
+   - [Ejercicio 5](docs/Caso_de_estudio.pdf)
 
 2. Entorno
    - [gitignore](entorno/.gitignore)
